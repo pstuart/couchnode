@@ -39,6 +39,8 @@
  */
 
 
+#define HAVE_PKCS5_PBKDF2_HMAC 1
+
 #define HAVE_ARPA_NAMESER_H 1
 #define HAVE_RES_SEARCH 1
 
@@ -243,4 +245,3 @@
 
 #include "config_static.h"
 #endif
-
